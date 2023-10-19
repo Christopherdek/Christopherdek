@@ -1,4 +1,4 @@
-<h1>Hello, I'm Christopher, an <a href="https://www.linkedin.com/in/christopher-g-de-kock/">IT Professional</a></h1>
+<h1>Hello, I'm Christopher, an <a href="https://https://www.linkedin.com/in/christopher-g-de-kock/">IT Professional</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
