@@ -10,8 +10,11 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Christopherdek/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Christopherdek/azure-network-protocols)
 
-- <b>VPN Setup and Usage with Proton VPN</b>
+- <b>VPN</b>
   - [Setup and Use with Proton VPN](https://github.com/Christopherdek/VPN-Setup)
+ 
+- <b>Active Directory</b>
+  - [Deploying Active Directory and Creating Users](https://github.com/Christopherdek/Dep-ActiveD)
 
 <h2>Connect with me:</h2>
 
