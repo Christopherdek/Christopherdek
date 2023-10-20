@@ -3,7 +3,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>Windows 10</b>
-  - [How to Clean Windows C Drive (Improve CPU Performance)](https://github.com/Christopherdek/Windows-CDrive-Clean)
+  - [Clean Your Windows C Drive and Improve CPU Performance)](https://github.com/Christopherdek/Windows-CDrive-Clean)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Christopherdek/osticket-prereqs)
