@@ -18,6 +18,11 @@
  
 - <b>Active Directory</b>
   - [Deploying Active Directory and Creating Users](https://github.com/Christopherdek/Dep-ActiveD)
+ 
+<h2>Data Analysis Projects</h2>
+
+- <b>Probability</b>
+  - [The Importance of Probability](https://github.com/Christopherdek/Probability-research)
 
 <h2>Connect with me:</h2>
 
