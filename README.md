@@ -24,6 +24,9 @@
 - <b>Probability</b>
   - [The Importance of Probability](https://github.com/Christopherdek/Probability-research)
 
+- <b>Data-Driven Sports Performance Enhancement</b>
+  - [Data-Driven Sports Performance Enhancement](https://github.com/Christopherdek/Data-Driven-Sport)
+
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
