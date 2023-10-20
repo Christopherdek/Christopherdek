@@ -2,8 +2,11 @@
 
 <h2> Information Technology Projects:</h2>
 
-- <b>Windows 10</b>
-  - [Clean Your Windows C Drive and Improve CPU Performance](https://github.com/Christopherdek/Windows-CDrive-Clean)
+- <b>Active Directory</b>
+  - [Deploying Active Directory and Creating Users](https://github.com/Christopherdek/Dep-ActiveD)
+
+- <b>Azure</b>
+  - [Azure Virtual Machine Tutorial](https://github.com/Christopherdek/Azure-VM-Tutorial)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Christopherdek/osticket-prereqs)
@@ -15,9 +18,9 @@
 
 - <b>VPN</b>
   - [Setup and Use with Proton VPN](https://github.com/Christopherdek/VPN-Setup)
- 
-- <b>Active Directory</b>
-  - [Deploying Active Directory and Creating Users](https://github.com/Christopherdek/Dep-ActiveD)
+
+- <b>Windows 10</b>
+  - [Clean Your Windows C Drive and Improve CPU Performance](https://github.com/Christopherdek/Windows-CDrive-Clean)
  
 <h2>Data Analysis Projects</h2>
 
